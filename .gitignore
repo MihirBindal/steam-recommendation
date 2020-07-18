@@ -1,0 +1,12 @@
+.idea/
+*.xml
+.ipynb_checkpoints
+venv/
+calculate_similarity.py
+my_df.pickle
+rearrage_data.py
+steam_description_data.csv
+steam_media_data.csv
+steam_requirements_data.csv
+steam_support_info.csv
+Untitled.ipynb
